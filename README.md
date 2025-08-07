@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/VishviThrimavithana/banner-image/main/banner.jpeg" alt="Vishvi Banner" height="200"/>
+
 
 <h1 align="center">Hi 👋, I'm Vishvi Thrimavithana</h1>
 <h3 align="center">Software Engineer | Creative Developer | Digital Marketer | Project Manager</h3>
